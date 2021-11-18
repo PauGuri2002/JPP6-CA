@@ -1,0 +1,262 @@
+{
+    "content": [
+        {
+            "doodle": "Log1", 
+            "id": 1, 
+            "log": "És graciós que tots els baixells que piloto s\u2019acaben enfonsant. Extrany.", 
+            "x": true
+        }, 
+        {
+            "doodle": "Log2", 
+            "id": 2, 
+            "log": "Ara que ens estem enfonsant en l\u2019oceà, ha sigut una mica inútil havenr-me dutxat aquest matí. ", 
+            "x": true
+        }, 
+        {
+            "doodle": "Log3", 
+            "id": 3, 
+            "log": "Potser no hauria d\u2019haver animat als còmics que ho \u201cpetéssin.\u201d", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log4", 
+            "id": 4, 
+            "log": "Anem a ser honestos, estic una mica estressat.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log5", 
+            "id": 5, 
+            "log": "Em dono el permís de pixar-me a sobre.", 
+            "x": true
+        }, 
+        {
+            "doodle": "Log6", 
+            "id": 6, 
+            "log": "Espero que això no consti en el meu expedient. ", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log7", 
+            "id": 7, 
+            "log": "Males notícies: el creuer s\u2019està enfonsant. Bones notícies: GENS de cua pel futbolín!", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log8", 
+            "id": 8, 
+            "log": "No vull aterrar els passatgers així que a això li diré un Codi Groc. ", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log9", 
+            "id": 9, 
+            "log": "No ploris perquè s\u2019ha acabat. Plora perquè el vaixell s\u2019està enfonsant.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log10", 
+            "id": 10, 
+            "log": "Ara sí que literalment cauré fins al fons de tot. ", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log11", 
+            "id": 11, 
+            "log": "Recordatori: Dir adéu a tots els passatgers perquè els supervivents deixin una bona ressenya!", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log12", 
+            "id": 12, 
+            "log": "Tinc la impressió que ningú va parar atenció al discurs de seguretat del primer dia...", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log13", 
+            "id": 13, 
+            "log": "Tinc por de quedar-me tirat al mig del mar amb gent perquè el meu cos sembla una cuixa de pollastre gegant. ", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log14", 
+            "id": 14, 
+            "log": "Sembla que estem la MAR de fotuts. HAHA. Encara em surten, Chuck.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log15", 
+            "id": 15, 
+            "log": "És una mica incòmode dir a la gent que avui també és el meu aniversari.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log16", 
+            "id": 16, 
+            "log": "La veritat és que el naufragi del creuer NO ha sigut la pitjor part del meu dia.", 
+            "x": true
+        }, 
+        {
+            "doodle": "Log17", 
+            "id": 17, 
+            "log": "Almenys ja he perdut totes les meves possessions. RES A PERDRE, BABY! Estic agraït i tot.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log18", 
+            "id": 18, 
+            "log": "Ugh. És que sé que acabaré en una planxa de fusta amb aquell passatger tan pesat.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log19", 
+            "id": 19, 
+            "log": "Ara sí que me\u2019n penedeixo d\u2019haver menjat aquell segon burrito. ", 
+            "x": true
+        }, 
+        {
+            "doodle": "Log20", 
+            "id": 20, 
+            "log": "Sembla que tindré una cosa de la que parlar amb el psicòleg demà.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log21", 
+            "id": 21, 
+            "log": "He estat dient a la gent que això és només un simulacre realista. Crec que no està funcionant.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log22", 
+            "id": 22, 
+            "log": "Tampoc em queien bé la majoria dels passatgers del creuer. Creu i ratlla.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log23", 
+            "id": 23, 
+            "log": "M\u2019inspira la motivació infinita de les persones que encara s\u2019estan exercitant al gimnàs.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log24", 
+            "id": 24, 
+            "log": "Avui només he tirat dos persones per la borda intentant salvar-me del naufragi. Total haurien acabat a l\u2019aigua tard o d\u2019hora", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log25", 
+            "id": 25, 
+            "log": "Estic començant a arrepentir-me d\u2019aquests bots salvavides decoratius\u2026 ", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log26", 
+            "id": 26, 
+            "log": "Quan una porta es tanca, una altra s\u2019obre\u2026 Però aquella habitació està plena d\u2019aigua així que vigila!", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log27", 
+            "id": 27, 
+            "log": "Respecto a l\u2019home aprofitant el buffet lliure fins l\u2019últim minut.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log28", 
+            "id": 28, 
+            "log": "Algú a l\u2019aigua va deixar anar una bombolla de pets enorme! Tots vam riure fins que el ferum es va començar a escampar...", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log29", 
+            "id": 29, 
+            "log": "Si els dofins no fossin tan mala gent, ens estarien saltant ara mateix!", 
+            "x": true
+        }, 
+        {
+            "doodle": "Log30", 
+            "id": 30, 
+            "log": "Personalment? Crec que la culpa és de la gent que no sap guardar secrets. ", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log31", 
+            "id": 31, 
+            "log": "Bep. Estic bastant segur que la caixa negra ha captat el meu homenatge a la cançó We Didn\u2019t Start the Fire.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log32", 
+            "id": 32, 
+            "log": "Irònicament, He de cancelar l\u2019actuació del cantant de covers Mateu Bonabarca.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log33", 
+            "id": 33, 
+            "log": "Cel rogent, pluja o vent\u2026 espera, espera, allò son flames. No he dit res llavors.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log34", 
+            "id": 34, 
+            "log": "Hora de fer servir el GPS de la natura: les estrelles! Oh no. N\u2019hi ha masses! On coi som?!?", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log35 ", 
+            "id": 35, 
+            "log": "No tinc massa temps per decidir quins són els meus top 3 llibres sobre illes desertes. ", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log36", 
+            "id": 36, 
+            "log": "Intentant convèncer a la penya que d\u2019aquí uns anys recordarem aquest moment i riurem. No està funcionant. ", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log37", 
+            "id": 37, 
+            "log": "És un miracle! Un grup de voltors han vingut a salvar-nos!! ", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log38", 
+            "id": 38, 
+            "log": "Durant moments com aquests m\u2019agrada recordar: \u201cSi la vida et dona llimones, utilitza-les com a flotador!\"", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log39", 
+            "id": 39, 
+            "log": "Oh no. Algú ha anat a buscar la gent dels tancs d\u2019aïllament sensorial de la coberta 9?!", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log40", 
+            "id": 40, 
+            "log": "He sigut capaç d\u2019aturar el caos apuntant i cridant, \u201cMireu, una balena!\u201d Amb això hauria de guanyar uns 5 minuts\u2026", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log41", 
+            "id": 41, 
+            "log": "Lifehack: Que una canonada t\u2019exploti a la cara per amagar el fet que estàs plorant. ", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log42", 
+            "id": 42, 
+            "log": "No sé perquè tothom m\u2019està mirant a mi. El meu torn ha acabat fa 10 minuts. ", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log43", 
+            "id": 43, 
+            "log": "Recordatori: En temps de crisi, dedica també una estona a olorar les roses mentres et floten pel costat amb les altres restes del menjador.", 
+            "x": false
+        }
+    ]
+}

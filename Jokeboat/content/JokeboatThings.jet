@@ -1,0 +1,740 @@
+{
+    "content": [
+        {
+            "id": 1, 
+            "topic": "albums"
+        }, 
+        {
+            "id": 2, 
+            "topic": "motxilles"
+        }, 
+        {
+            "id": 3, 
+            "topic": "abelles"
+        }, 
+        {
+            "id": 4, 
+            "topic": "bicicletes"
+        }, 
+        {
+            "id": 5, 
+            "topic": "multimilionaris"
+        }, 
+        {
+            "id": 6, 
+            "topic": "pallassos"
+        }, 
+        {
+            "id": 7, 
+            "topic": "tempestes"
+        }, 
+        {
+            "id": 8, 
+            "topic": "jocs de taula"
+        }, 
+        {
+            "id": 9, 
+            "topic": "raspalls de dents"
+        }, 
+        {
+            "id": 10, 
+            "topic": "habitacions d\u2019hotel"
+        }, 
+        {
+            "id": 11, 
+            "topic": "divorcis"
+        }, 
+        {
+            "id": 12, 
+            "topic": "viatges en cotxe"
+        }, 
+        {
+            "id": 13, 
+            "topic": "autos de xoc"
+        }, 
+        {
+            "id": 14, 
+            "topic": "concerts"
+        }, 
+        {
+            "id": 15, 
+            "topic": "pantalons de pana"
+        }, 
+        {
+            "id": 16, 
+            "topic": "nuggets de pollastre"
+        }, 
+        {
+            "id": 17, 
+            "topic": "bastonets xinesos"
+        }, 
+        {
+            "id": 18, 
+            "topic": "còmics"
+        }, 
+        {
+            "id": 19, 
+            "topic": "companys de feina"
+        }, 
+        {
+            "id": 20, 
+            "topic": "pelis"
+        }, 
+        {
+            "id": 21, 
+            "topic": "cupcakes"
+        }, 
+        {
+            "id": 22, 
+            "topic": "dentistes"
+        }, 
+        {
+            "id": 23, 
+            "topic": "anells de diamants"
+        }, 
+        {
+            "id": 24, 
+            "topic": "bolquers"
+        }, 
+        {
+            "id": 25, 
+            "topic": "videojocs"
+        }, 
+        {
+            "id": 26, 
+            "topic": "sabates de taló"
+        }, 
+        {
+            "id": 27, 
+            "topic": "nines"
+        }, 
+        {
+            "id": 28, 
+            "topic": "doppelg\u00e4ngers"
+        }, 
+        {
+            "id": 29, 
+            "topic": "xulopiscines"
+        }, 
+        {
+            "id": 30, 
+            "topic": "dracs"
+        }, 
+        {
+            "id": 31, 
+            "topic": "somnis"
+        }, 
+        {
+            "id": 32, 
+            "topic": "jardins"
+        }, 
+        {
+            "id": 33, 
+            "topic": "ous"
+        }, 
+        {
+            "id": 34, 
+            "topic": "llibres"
+        }, 
+        {
+            "id": 35, 
+            "topic": "focs artificials"
+        }, 
+        {
+            "id": 36, 
+            "topic": "banyeres"
+        }, 
+        {
+            "id": 37, 
+            "topic": "llistes de la compra"
+        }, 
+        {
+            "id": 38, 
+            "topic": "metges"
+        }, 
+        {
+            "id": 39, 
+            "topic": "massatges"
+        }, 
+        {
+            "id": 40, 
+            "topic": "grups de WhatsApp"
+        }, 
+        {
+            "id": 41, 
+            "topic": "seguidors online"
+        }, 
+        {
+            "id": 42, 
+            "topic": "opinions controvertides"
+        }, 
+        {
+            "id": 43, 
+            "topic": "colibrís"
+        }, 
+        {
+            "id": 44, 
+            "topic": "jalape\u00f1os"
+        }, 
+        {
+            "id": 45, 
+            "topic": "caquis"
+        }, 
+        {
+            "id": 46, 
+            "topic": "entrenadors personals"
+        }, 
+        {
+            "id": 47, 
+            "topic": "YouTubers"
+        }, 
+        {
+            "id": 48, 
+            "topic": "professors"
+        }, 
+        {
+            "id": 49, 
+            "topic": "mitjons"
+        }, 
+        {
+            "id": 50, 
+            "topic": "joguines"
+        }, 
+        {
+            "id": 51, 
+            "topic": "subscripcions"
+        }, 
+        {
+            "id": 52, 
+            "topic": "imants"
+        }, 
+        {
+            "id": 53, 
+            "topic": "orquestres de cercavila"
+        }, 
+        {
+            "id": 54, 
+            "topic": "nubes"
+        }, 
+        {
+            "id": 55, 
+            "topic": "arts marcials"
+        }, 
+        {
+            "id": 56, 
+            "topic": "llumins"
+        }, 
+        {
+            "id": 57, 
+            "topic": "matalassos"
+        }, 
+        {
+            "id": 58, 
+            "topic": "restaurants"
+        }, 
+        {
+            "id": 59, 
+            "topic": "memes"
+        }, 
+        {
+            "id": 60, 
+            "topic": "dilluns"
+        }, 
+        {
+            "id": 61, 
+            "topic": "musicals"
+        }, 
+        {
+            "id": 62, 
+            "topic": "galetes"
+        }, 
+        {
+            "id": 63, 
+            "topic": "places de parking"
+        }, 
+        {
+            "id": 64, 
+            "topic": "contrasenyes"
+        }, 
+        {
+            "id": 65, 
+            "topic": "coixins"
+        }, 
+        {
+            "id": 66, 
+            "topic": "estris escolars"
+        }, 
+        {
+            "id": 67, 
+            "topic": "bosses de plàstic"
+        }, 
+        {
+            "id": 68, 
+            "topic": "podcasts"
+        }, 
+        {
+            "id": 69, 
+            "topic": "patates de bossa"
+        }, 
+        {
+            "id": 70, 
+            "topic": "bassals"
+        }, 
+        {
+            "id": 71, 
+            "topic": "arcs de Sant Martí"
+        }, 
+        {
+            "id": 72, 
+            "topic": "cançons de rap"
+        }, 
+        {
+            "id": 73, 
+            "topic": "sequeles"
+        }, 
+        {
+            "id": 74, 
+            "topic": "tiquets"
+        }, 
+        {
+            "id": 75, 
+            "topic": "endevinalles"
+        }, 
+        {
+            "id": 76, 
+            "topic": "haters"
+        }, 
+        {
+            "id": 77, 
+            "topic": "robots"
+        }, 
+        {
+            "id": 78, 
+            "topic": "muntanyes russes"
+        }, 
+        {
+            "id": 79, 
+            "topic": "comèdies romàntiques"
+        }, 
+        {
+            "id": 80, 
+            "topic": "creuers"
+        }, 
+        {
+            "id": 81, 
+            "topic": "científics"
+        }, 
+        {
+            "id": 82, 
+            "topic": "patinets"
+        }, 
+        {
+            "id": 83, 
+            "topic": "esquelets"
+        }, 
+        {
+            "id": 84, 
+            "topic": "amos"
+        }, 
+        {
+            "id": 85, 
+            "topic": "gelats de pal"
+        }, 
+        {
+            "id": 86, 
+            "topic": "telenoveles"
+        }, 
+        {
+            "id": 87, 
+            "topic": "carteres"
+        }, 
+        {
+            "id": 88, 
+            "topic": "mòbils"
+        }, 
+        {
+            "id": 89, 
+            "topic": "vacances"
+        }, 
+        {
+            "id": 90, 
+            "topic": "ulleres de sol"
+        }, 
+        {
+            "id": 91, 
+            "topic": "mestres"
+        }, 
+        {
+            "id": 92, 
+            "topic": "dies de pluja"
+        }, 
+        {
+            "id": 93, 
+            "topic": "vàters"
+        }, 
+        {
+            "id": 94, 
+            "topic": "contenidors"
+        }, 
+        {
+            "id": 95, 
+            "topic": "tornados"
+        }, 
+        {
+            "id": 96, 
+            "topic": "trampolins"
+        }, 
+        {
+            "id": 97, 
+            "topic": "errors ortogràfics"
+        }, 
+        {
+            "id": 98, 
+            "topic": "vampirs"
+        }, 
+        {
+            "id": 99, 
+            "topic": "gatets"
+        }, 
+        {
+            "id": 100, 
+            "topic": "sectes"
+        }, 
+        {
+            "id": 101, 
+            "topic": "instructors de ioga"
+        }, 
+        {
+            "id": 102, 
+            "topic": "zombis"
+        }, 
+        {
+            "id": 103, 
+            "topic": "nachos carregats"
+        }, 
+        {
+            "id": 104, 
+            "topic": "puzzles"
+        }, 
+        {
+            "id": 105, 
+            "topic": "gomes elàstiques"
+        }, 
+        {
+            "id": 106, 
+            "topic": "auriculars inalàmbrics"
+        }, 
+        {
+            "id": 107, 
+            "topic": "pisets"
+        }, 
+        {
+            "id": 108, 
+            "topic": "executius"
+        }, 
+        {
+            "id": 109, 
+            "topic": "lentilles"
+        }, 
+        {
+            "id": 110, 
+            "topic": "jaquetes"
+        }, 
+        {
+            "id": 111, 
+            "topic": "elàstics"
+        }, 
+        {
+            "id": 112, 
+            "topic": "nombres vermells"
+        }, 
+        {
+            "id": 113, 
+            "topic": "organitzacions benèfiques"
+        }, 
+        {
+            "id": 114, 
+            "topic": "colonoscòpies"
+        }, 
+        {
+            "id": 115, 
+            "topic": "drets a votar"
+        }, 
+        {
+            "id": 116, 
+            "topic": "tiets"
+        }, 
+        {
+            "id": 117, 
+            "topic": "empreses tecnològiques"
+        }, 
+        {
+            "id": 118, 
+            "topic": "cirugies estètiques"
+        }, 
+        {
+            "id": 119, 
+            "topic": "sobres"
+        }, 
+        {
+            "id": 120, 
+            "topic": "capitalistes"
+        }, 
+        {
+            "id": 121, 
+            "topic": "anarquistes"
+        }, 
+        {
+            "id": 122, 
+            "topic": "nens"
+        }, 
+        {
+            "id": 123, 
+            "topic": "casaments"
+        }, 
+        {
+            "id": 124, 
+            "topic": "galifardeus"
+        }, 
+        {
+            "id": 125, 
+            "topic": "polítics"
+        }, 
+        {
+            "id": 126, 
+            "topic": "viatgers en el temps"
+        }, 
+        {
+            "id": 127, 
+            "topic": "transports públics"
+        }, 
+        {
+            "id": 128, 
+            "topic": "serveis de streaming"
+        }, 
+        {
+            "id": 129, 
+            "topic": "mascaretes"
+        }, 
+        {
+            "id": 130, 
+            "topic": "ordres religioses"
+        }, 
+        {
+            "id": 131, 
+            "topic": "lluitadors professionals"
+        }, 
+        {
+            "id": 132, 
+            "topic": "reality shows"
+        }, 
+        {
+            "id": 133, 
+            "topic": "democràcies"
+        }, 
+        {
+            "id": 134, 
+            "topic": "pares"
+        }, 
+        {
+            "id": 135, 
+            "topic": "hashtags"
+        }, 
+        {
+            "id": 136, 
+            "topic": "teleoperadors"
+        }, 
+        {
+            "id": 137, 
+            "topic": "advocats"
+        }, 
+        {
+            "id": 138, 
+            "topic": "amistats"
+        }, 
+        {
+            "id": 139, 
+            "topic": "seients en primera classe"
+        }, 
+        {
+            "id": 140, 
+            "topic": "disculpes públiques"
+        }, 
+        {
+            "id": 141, 
+            "topic": "fantasies"
+        }, 
+        {
+            "id": 142, 
+            "topic": "pors"
+        }, 
+        {
+            "id": 143, 
+            "topic": "menús"
+        }, 
+        {
+            "id": 144, 
+            "topic": "manifestacions"
+        }, 
+        {
+            "id": 145, 
+            "topic": "gimnassos"
+        }, 
+        {
+            "id": 146, 
+            "topic": "conspiracionistes"
+        }, 
+        {
+            "id": 147, 
+            "topic": "influencers"
+        }, 
+        {
+            "id": 148, 
+            "topic": "huracans"
+        }, 
+        {
+            "id": 149, 
+            "topic": "terraplanistes"
+        }, 
+        {
+            "id": 150, 
+            "topic": "comes"
+        }, 
+        {
+            "id": 151, 
+            "topic": "alvocats"
+        }, 
+        {
+            "id": 152, 
+            "topic": "festes a l\u2019oficina"
+        }, 
+        {
+            "id": 153, 
+            "topic": "dietes de moda"
+        }, 
+        {
+            "id": 154, 
+            "topic": "avis"
+        }, 
+        {
+            "id": 155, 
+            "topic": "autònoms"
+        }, 
+        {
+            "id": 156, 
+            "topic": "caps"
+        }, 
+        {
+            "id": 157, 
+            "topic": "trilogies"
+        }, 
+        {
+            "id": 158, 
+            "topic": "conductors de taxi"
+        }, 
+        {
+            "id": 159, 
+            "topic": "cotxes"
+        }, 
+        {
+            "id": 160, 
+            "topic": "diumenges"
+        }, 
+        {
+            "id": 161, 
+            "topic": "vídeos virals"
+        }, 
+        {
+            "id": 162, 
+            "topic": "llençols"
+        }, 
+        {
+            "id": 163, 
+            "topic": "dictadors"
+        }, 
+        {
+            "id": 164, 
+            "topic": "culs"
+        }, 
+        {
+            "id": 165, 
+            "topic": "texans curts"
+        }, 
+        {
+            "id": 166, 
+            "topic": "padrastres"
+        }, 
+        {
+            "id": 167, 
+            "topic": "adolescents"
+        }, 
+        {
+            "id": 168, 
+            "topic": "planetes"
+        }, 
+        {
+            "id": 169, 
+            "topic": "frases cèlebres"
+        }, 
+        {
+            "id": 170, 
+            "topic": "gossos"
+        }, 
+        {
+            "id": 171, 
+            "topic": "gats"
+        }, 
+        {
+            "id": 172, 
+            "topic": "nits de divendres"
+        }, 
+        {
+            "id": 173, 
+            "topic": "centres de convencions"
+        }, 
+        {
+            "id": 174, 
+            "topic": "snacks"
+        }, 
+        {
+            "id": 175, 
+            "topic": "trolls"
+        }, 
+        {
+            "id": 176, 
+            "topic": "apps"
+        }, 
+        {
+            "id": 177, 
+            "topic": "exercicis"
+        }, 
+        {
+            "id": 178, 
+            "topic": "parcs temàtics"
+        }, 
+        {
+            "id": 179, 
+            "topic": "notificacions"
+        }, 
+        {
+            "id": 180, 
+            "topic": "busos públics"
+        }, 
+        {
+            "id": 181, 
+            "topic": "entrevistes de feina"
+        }, 
+        {
+            "id": 182, 
+            "topic": "esdeveniments esportius"
+        }, 
+        {
+            "id": 183, 
+            "topic": "lavabos"
+        }, 
+        {
+            "id": 184, 
+            "topic": "funcionaris"
+        }
+    ]
+}

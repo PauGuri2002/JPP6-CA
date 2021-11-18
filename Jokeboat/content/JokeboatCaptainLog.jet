@@ -1,0 +1,364 @@
+{
+    "content": [
+        {
+            "doodle": "Log1", 
+            "id": 1, 
+            "log": "Si escoltes l\u2019oceà, quasi sempre s\u2019està rient de tu.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log2", 
+            "id": 2, 
+            "log": "Avui he descobert que la maionesa és un gran substitut de la crema solar si no t\u2019importa la pell cruixent!", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log3", 
+            "id": 3, 
+            "log": "Ningú fa servir la sauna a les 7 del matí. És un lloc genial per plorar sol!", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log4", 
+            "id": 4, 
+            "log": "Un cop em pensava que havia trobat un far, però va resultar que era un bar. Amb música en directe. Em vaig quedar pel concert sencer.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log5", 
+            "id": 5, 
+            "log": "Estic pensant de començar un podcast i dir-li La Barcast.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log6", 
+            "id": 6, 
+            "log": "El meu vídeo de YouTube de \u201cVeles Èpiques\u201d ha aconseguit quatre visites més avui. ", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log7", 
+            "id": 7, 
+            "log": "Recordatori: Intenta no impactar contra res amb la barca.", 
+            "x": true
+        }, 
+        {
+            "doodle": "Log8", 
+            "id": 8, 
+            "log": "Avui m\u2019he unit a una conga accidentalment. Suposo que a vegades SÍ que se\u2019t contagiarà el ritme. Aneu amb compte.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log9", 
+            "id": 9, 
+            "log": "\u201cSi aneu a pescar només per xulejar, no em TIREU LA CANYA\u201d - ho posaré en una semarreta. Quantes n\u2019hauria de fer? 25 mil?", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log10", 
+            "id": 10, 
+            "log": "M\u2019he enamorat d\u2019una foca persistent, però he descobert després que només em seguia pel meu dinar.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log11", 
+            "id": 11, 
+            "log": "Poso aigua salada als meus cereals. Els hi dic CERESALS\u2026 He vomitat tres cops avui.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log12", 
+            "id": 12, 
+            "log": "No em puc creure que no fes negocis aquell venedor de peix congelat! És l'únic qui probablement podria pagar amb glaçons. ", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log13", 
+            "id": 13, 
+            "log": "Navegar és molt relaxant, però trobo a faltar Internet i les seves meravelles ",
+            "x": true
+        }, 
+        {
+            "doodle": "Log14", 
+            "id": 14, 
+            "log": "Encara no he rebut cap missatge de la Sandra Bullock. És que va oblidar que vaig fer un consultor a Speed 2: Control de Creuer??", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log15", 
+            "id": 15, 
+            "log": "Quantes ampolles de plàstic hi hauran al fons de l\u2019oceà? Em pregunto això cada cop que en llenço una per la borda.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log16", 
+            "id": 16, 
+            "log": "Hauria de renombrar el Mar Mort amb algo més positiu. Mar Adormit? Mar que Només Necessita Motivació?", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log17", 
+            "id": 17, 
+            "log": "He vessat café a sobre el manual d\u2019operació del vaixell sense voler. Parla\u2019m de presagis! ", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log18", 
+            "id": 18, 
+            "log": "Vaig progressant en el meu llibre d\u2019autoajuda \u201cCap i tant!\u201d ", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log19", 
+            "id": 19, 
+            "log": "Ha sigut un dia dur. Un altre nen m\u2019ha robat la pistola de bengales i m\u2019ha disparat al cul. ", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log20", 
+            "id": 20, 
+            "log": "Porto bastant progrés amb la meva paròdia de Sir Mix-a-Lot \u201cI like big BOATS and I cannot lie\u2026\u201d", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log21", 
+            "id": 21, 
+            "log": "Que se\u2019t coli sorra a la roba interios és horrible. Què podria ser pitjor? Si et passés perquè t\u2019has assegut en un rellotge de sorra. AWIE!!!", 
+            "x": true
+        }, 
+        {
+            "doodle": "Log22", 
+            "id": 22, 
+            "log": "Idea per una semarreta: \u201cSoc la MAR de tranquil.\u201d Hmmm millor guardo aquest disseny a la caixa forta. ", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log23", 
+            "id": 23, 
+            "log": "Em pregunto si ningú s\u2019haurà adonat que cap dels vàters funciona\u2026 ", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log24", 
+            "id": 24, 
+            "log": "Avui m\u2019he quedat atrapat en un vestit. Com em trec això de sobre?", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log25", 
+            "id": 25, 
+            "log": "Mai accepteu el repte d\u2019intentar saltar per sobre la red de volley. El nen em va deixar allà penjat 3 hores.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log26", 
+            "id": 26, 
+            "log": "He trobat un missatge en una ampolla pero ha resultat que era spam.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log27", 
+            "id": 27, 
+            "log": "Idea de tattoo: \u201cDeez Knots.\u201d", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log28", 
+            "id": 28, 
+            "log": "Idea de tattoo: STINGRAY LIOTTA. ", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log29", 
+            "id": 29, 
+            "log": "Idea de llibre: First Mates: La Guia del Capità per Lligar", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log30", 
+            "id": 30, 
+            "log": "Hi ha moltes coses que trobo a faltar de quan estava a terra ferma. Per exemple, Em pregunto que serà d\u2019el Jove Sherlock\u2026", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log31", 
+            "id": 31, 
+            "log": "Estic bastant segur que acabo de veure un dofí espia\u2026", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log32", 
+            "id": 32, 
+            "log": "Observació: els cobrellits costen de posar en els llits. Hi podria haver un acudit graciós aquí\u2026", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log33", 
+            "id": 33, 
+            "log": "Un altre matí exitós on ningú se n\u2019ha adonat que la meva insignia està feta de llaminadures.  ", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log34", 
+            "id": 34, 
+            "log": "Una altra família americana s\u2019ha quedat encallada al tobogan aqüàtic. Hem hagut d\u2019utilitzar la grua un altre cop. ", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log35", 
+            "id": 35, 
+            "log": "Estic progressant en el meu nou llibre d\u2019autoajuda \u201cJo, jo.. La Guia d\u2019Un Capità Sobre Posar-te tu mateix el Primer\u201d", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log36", 
+            "id": 36, 
+            "log": "El spa m\u2019ha donat tots els seus cogombres utilitzats. Aquesta nit soparé com un rei! ", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log37", 
+            "id": 37, 
+            "log": "M\u2019he posat bacon a l\u2019amanida avui perquè sóc un trapella.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log38", 
+            "id": 38, 
+            "log": "Algú m\u2019ha preguntat si vivia al gimnàs. Em pensava que era un compliment fins que han assumit que era un sense sostre. ", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log39", 
+            "id": 39, 
+            "log": "M\u2019acabo d\u2019adonar que estava portant dues sabates diferents.  Encara pitjor: les portava posades a les mans.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log40", 
+            "id": 40, 
+            "log": "Tom Hanks m\u2019ha respost. Resulta que el Capità Phillips NO estava basat en mi. :(", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log41", 
+            "id": 41, 
+            "log": "He entrat en un debat amb uns terraplanistes. Estaré molt avergonyit si caiem de la vora de la terra. ", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log42", 
+            "id": 42, 
+            "log": "He fet plorar una nena petita sense voler quan li he dit que totes les sirenes molt probablement tenen intoxicació per mercuri. ", 
+            "x": true
+        }, 
+        {
+            "doodle": "Log43", 
+            "id": 43, 
+            "log": "El 80% dels passatgers van amb scooters elèctrics. Aquesta és la meva gent. ", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log44", 
+            "id": 44, 
+            "log": "Tres setmanes més tard i el creuer ENCARA olora a pallasso. Uff.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log45", 
+            "id": 45, 
+            "log": "Call Me Maybe > Call me Ishmael ", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log46", 
+            "id": 46, 
+            "log": "M\u2019he posat un caragol de mar a l\u2019orella però l\u2019únic que se sentia era una trucada robòtica. ", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log47", 
+            "id": 47, 
+            "log": "He fet el famós estofat de banyera de la meva mare. ", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log48", 
+            "id": 48, 
+            "log": "M\u2019ha caigut un altre mòbil a l\u2019espiracle de la balena avui.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log49", 
+            "id": 49, 
+            "log": "Dia dur. Estava fent la migdiada a la piscina i m\u2019han confós per una joguina inflable. ", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log50", 
+            "id": 50, 
+            "log": "Només un terç del manual d\u2019operació del vaixell llegit. És moolt avorrit. Quin somnífer! ", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log51", 
+            "id": 51, 
+            "log": "Potser no tinc 401K però tinc aquesta idea per una semarreta: a davant posa CAVALLET DE MAR i a darrere posa CAVALLET DE MORT. ", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log52", 
+            "id": 52, 
+            "log": "La meva habitació es comença a sentir com una cel·la de presó. Crec que és per la seva petita mida i per totes aquelles barres de ferro... ", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log53", 
+            "id": 53, 
+            "log": "La nit passada vaig provar un nou acudit. \u201cPerquè Déu odia els dofins? Perquè són unes bèsties repugnants!\u201d Crec que no serveixo com a còmic. ", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log54", 
+            "id": 54, 
+            "log": "He de parlar amb el servei de neteja. No paren de plegar la meva tovallola com una serp. ", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log55", 
+            "id": 55, 
+            "log": "He recreat aquell moment de Titanic amb el conserge. Té unes mans molt suaus.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log56", 
+            "id": 56, 
+            "log": "Acudit per provar: Perquè es diu Creuer i no Morter?! [pausa de cinc minuts pels riures]", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log57", 
+            "id": 57, 
+            "log": "Porto 25 anys en un creuer i encara ningú m\u2019ha dibuixat nu. Hora d\u2019adreçar el problema pel meu compte. ", 
+            "x": true
+        }, 
+        {
+            "doodle": "Log58", 
+            "id": 58, 
+            "log": "Demà és dia de port! Tinc la intenció de fer-me un piercing a les orelles!! ", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log59", 
+            "id": 59, 
+            "log": "Pensant de fer-me serrell\u2026", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log60", 
+            "id": 60, 
+            "log": "Acabo de descobrir què és fer la planxa. Ara la gent està literalment caminant per sobre meu!", 
+            "x": false
+        }
+    ]
+}

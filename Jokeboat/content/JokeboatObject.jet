@@ -1,0 +1,372 @@
+{
+    "content": [
+        {
+            "id": 1, 
+            "topic": "figura d\u2019acció"
+        }, 
+        {
+            "id": 2, 
+            "topic": "aire acondicionat"
+        }, 
+        {
+            "id": 3, 
+            "topic": "despertador"
+        }, 
+        {
+            "id": 4, 
+            "topic": "alfombreta de porta"
+        }, 
+        {
+            "id": 5, 
+            "topic": "cinturó"
+        }, 
+        {
+            "id": 6, 
+            "topic": "biquini"
+        }, 
+        {
+            "id": 7, 
+            "topic": "copa esportiva"
+        }, 
+        {
+            "id": 8, 
+            "topic": "boomerang"
+        }, 
+        {
+            "id": 9, 
+            "topic": "llenç en blanc"
+        }, 
+        {
+            "id": 10, 
+            "topic": "assecador"
+        }, 
+        {
+            "id": 11, 
+            "topic": "oboè"
+        }, 
+        {
+            "id": 12, 
+            "topic": "prestatgeria"
+        }, 
+        {
+            "id": 13, 
+            "topic": "cactus"
+        }, 
+        {
+            "id": 14, 
+            "topic": "catapulta"
+        }, 
+        {
+            "id": 15, 
+            "topic": "punter làser"
+        }, 
+        {
+            "id": 16, 
+            "topic": "cactus"
+        }, 
+        {
+            "id": 17, 
+            "topic": "mono"
+        }, 
+        {
+            "id": 18, 
+            "topic": "bressol"
+        }, 
+        {
+            "id": 19, 
+            "topic": "calendari"
+        }, 
+        {
+            "id": 20, 
+            "topic": "baralla de cartes"
+        }, 
+        {
+            "id": 21, 
+            "topic": "bidet"
+        }, 
+        {
+            "id": 22, 
+            "topic": "diari secret"
+        }, 
+        {
+            "id": 23, 
+            "topic": "bateria"
+        }, 
+        {
+            "id": 24, 
+            "topic": "pissarra"
+        }, 
+        {
+            "id": 25, 
+            "topic": "cinta aillant"
+        }, 
+        {
+            "id": 26, 
+            "topic": "didgeridoo"
+        }, 
+        {
+            "id": 27, 
+            "topic": "ronyonera"
+        }, 
+        {
+            "id": 28, 
+            "topic": "barret de copa"
+        }, 
+        {
+            "id": 29, 
+            "topic": "coixí"
+        }, 
+        {
+            "id": 30, 
+            "topic": "pen drive"
+        }, 
+        {
+            "id": 31, 
+            "topic": "telèfon amb tapa"
+        }, 
+        {
+            "id": 32, 
+            "topic": "disquet"
+        }, 
+        {
+            "id": 33, 
+            "topic": "mirall de cos sencer"
+        }, 
+        {
+            "id": 34, 
+            "topic": "guillotina"
+        }, 
+        {
+            "id": 35, 
+            "topic": "martell"
+        }, 
+        {
+            "id": 36, 
+            "topic": "pijama"
+        }, 
+        {
+            "id": 37, 
+            "topic": "hoverboard"
+        }, 
+        {
+            "id": 38, 
+            "topic": "cèrcol"
+        }, 
+        {
+            "id": 39, 
+            "topic": "jacuzzi"
+        }, 
+        {
+            "id": 40, 
+            "topic": "motxilla coet"
+        }, 
+        {
+            "id": 41, 
+            "topic": "corda de saltar"
+        }, 
+        {
+            "id": 42, 
+            "topic": "kayak"
+        }, 
+        {
+            "id": 43, 
+            "topic": "llaç"
+        }, 
+        {
+            "id": 44, 
+            "topic": "vareta màgica"
+        }, 
+        {
+            "id": 45, 
+            "topic": "patinet elèctric"
+        }, 
+        {
+            "id": 46, 
+            "topic": "microones"
+        }, 
+        {
+            "id": 47, 
+            "topic": "moto"
+        }, 
+        {
+            "id": 48, 
+            "topic": "diccionari"
+        }, 
+        {
+            "id": 49, 
+            "topic": "polo"
+        }, 
+        {
+            "id": 50, 
+            "topic": "semarreta de coll alt"
+        }, 
+        {
+            "id": 51, 
+            "topic": "karaoke"
+        }, 
+        {
+            "id": 52, 
+            "topic": "puzzle"
+        }, 
+        {
+            "id": 53, 
+            "topic": "porta giratòria"
+        }, 
+        {
+            "id": 54, 
+            "topic": "cadira de massatges"
+        }, 
+        {
+            "id": 55, 
+            "topic": "telèfon de disc"
+        }, 
+        {
+            "id": 56, 
+            "topic": "pal selfie"
+        }, 
+        {
+            "id": 57, 
+            "topic": "batut"
+        }, 
+        {
+            "id": 58, 
+            "topic": "ninot de neu"
+        }, 
+        {
+            "id": 59, 
+            "topic": "pneumàtic de recanvi"
+        }, 
+        {
+            "id": 60, 
+            "topic": "espàtula"
+        }, 
+        {
+            "id": 61, 
+            "topic": "talismà"
+        }, 
+        {
+            "id": 62, 
+            "topic": "semarreta de tirants"
+        }, 
+        {
+            "id": 63, 
+            "topic": "bossa de te"
+        }, 
+        {
+            "id": 64, 
+            "topic": "coixí gegant"
+        }, 
+        {
+            "id": 65, 
+            "topic": "paper de vàter"
+        }, 
+        {
+            "id": 66, 
+            "topic": "desembussador"
+        }, 
+        {
+            "id": 67, 
+            "topic": "cinta de córrer"
+        }, 
+        {
+            "id": 68, 
+            "topic": "urna"
+        }, 
+        {
+            "id": 69, 
+            "topic": "coixí de viscoelàstica"
+        }, 
+        {
+            "id": 70, 
+            "topic": "calendari"
+        }, 
+        {
+            "id": 71, 
+            "topic": "nòrdic"
+        }, 
+        {
+            "id": 72, 
+            "topic": "alfombreta de porta"
+        }, 
+        {
+            "id": 73, 
+            "topic": "yo-yo"
+        }, 
+        {
+            "id": 74, 
+            "topic": "làmpara de sal himalaia"
+        }, 
+        {
+            "id": 75, 
+            "topic": "fregall"
+        }, 
+        {
+            "id": 76, 
+            "topic": "olla a pressió"
+        }, 
+        {
+            "id": 77, 
+            "topic": "torradora"
+        }, 
+        {
+            "id": 78, 
+            "topic": "sombra d\u2019ulls"
+        }, 
+        {
+            "id": 79, 
+            "topic": "altaveu inteligent"
+        }, 
+        {
+            "id": 80, 
+            "topic": "jaqueta de cuir"
+        }, 
+        {
+            "id": 81, 
+            "topic": "bossa de plàstic"
+        }, 
+        {
+            "id": 82, 
+            "topic": "xurro de piscina"
+        }, 
+        {
+            "id": 83, 
+            "topic": "forqullera"
+        }, 
+        {
+            "id": 84, 
+            "topic": "nina"
+        }, 
+        {
+            "id": 85, 
+            "topic": "post-it"
+        }, 
+        {
+            "id": 86, 
+            "topic": "xiclet"
+        }, 
+        {
+            "id": 87, 
+            "topic": "tarjeta de crèdit"
+        }, 
+        {
+            "id": 88, 
+            "topic": "tricicle"
+        }, 
+        {
+            "id": 89, 
+            "topic": "paperera"
+        }, 
+        {
+            "id": 90, 
+            "topic": "llanterna"
+        }, 
+        {
+            "id": 91, 
+            "topic": "anell"
+        }, 
+        {
+            "id": 92, 
+            "topic": "robot aspiradora"
+        }
+    ]
+}

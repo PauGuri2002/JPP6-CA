@@ -1,0 +1,292 @@
+{
+    "content": [
+        {
+            "id": 1, 
+            "topic": "sauna"
+        }, 
+        {
+            "id": 2, 
+            "topic": "aquari"
+        }, 
+        {
+            "id": 3, 
+            "topic": "base militar"
+        }, 
+        {
+            "id": 4, 
+            "topic": "musu d\u2019art"
+        }, 
+        {
+            "id": 5, 
+            "topic": "camerino"
+        }, 
+        {
+            "id": 6, 
+            "topic": "balcó"
+        }, 
+        {
+            "id": 7, 
+            "topic": "piscina de boles"
+        }, 
+        {
+            "id": 8, 
+            "topic": "sala de ball"
+        }, 
+        {
+            "id": 9, 
+            "topic": "banc"
+        }, 
+        {
+            "id": 10, 
+            "topic": "graner"
+        }, 
+        {
+            "id": 11, 
+            "topic": "lavabo"
+        }, 
+        {
+            "id": 12, 
+            "topic": "hotel a la platja"
+        }, 
+        {
+            "id": 13, 
+            "topic": "passeig marítim"
+        }, 
+        {
+            "id": 14, 
+            "topic": "buffet lliure"
+        }, 
+        {
+            "id": 15, 
+            "topic": "cafeteria"
+        }, 
+        {
+            "id": 16, 
+            "topic": "càmping"
+        }, 
+        {
+            "id": 17, 
+            "topic": "rentacotxes"
+        }, 
+        {
+            "id": 18, 
+            "topic": "castell"
+        }, 
+        {
+            "id": 19, 
+            "topic": "cementiri"
+        }, 
+        {
+            "id": 20, 
+            "topic": "circ"
+        }, 
+        {
+            "id": 21, 
+            "topic": "camp de blat"
+        }, 
+        {
+            "id": 22, 
+            "topic": "jutjat"
+        }, 
+        {
+            "id": 23, 
+            "topic": "creuer"
+        }, 
+        {
+            "id": 24, 
+            "topic": "cubicle"
+        }, 
+        {
+            "id": 25, 
+            "topic": "illa deserta"
+        }, 
+        {
+            "id": 26, 
+            "topic": "consulta del metge"
+        }, 
+        {
+            "id": 27, 
+            "topic": "dormitori"
+        }, 
+        {
+            "id": 28, 
+            "topic": "ascensor"
+        }, 
+        {
+            "id": 29, 
+            "topic": "escape room"
+        }, 
+        {
+            "id": 30, 
+            "topic": "mercat setmanal"
+        }, 
+        {
+            "id": 31, 
+            "topic": "restaurant de menjar ràpid"
+        }, 
+        {
+            "id": 32, 
+            "topic": "sínia"
+        }, 
+        {
+            "id": 33, 
+            "topic": "estació de bombers"
+        }, 
+        {
+            "id": 34, 
+            "topic": "funeral"
+        }, 
+        {
+            "id": 35, 
+            "topic": "deixalleria"
+        }, 
+        {
+            "id": 36, 
+            "topic": "gazebo"
+        }, 
+        {
+            "id": 37, 
+            "topic": "gimnàs"
+        }, 
+        {
+            "id": 38, 
+            "topic": "casa encantada"
+        }, 
+        {
+            "id": 39, 
+            "topic": "heliport"
+        }, 
+        {
+            "id": 40, 
+            "topic": "àrea de servei"
+        }, 
+        {
+            "id": 41, 
+            "topic": "vestíbul d\u2019hotel"
+        }, 
+        {
+            "id": 42, 
+            "topic": "biblioteca"
+        }, 
+        {
+            "id": 43, 
+            "topic": "cabanya de troncs"
+        }, 
+        {
+            "id": 44, 
+            "topic": "botiga de museu"
+        }, 
+        {
+            "id": 45, 
+            "topic": "búnker"
+        }, 
+        {
+            "id": 46, 
+            "topic": "cercavila"
+        }, 
+        {
+            "id": 47, 
+            "topic": "refugi de mascotes"
+        }, 
+        {
+            "id": 48, 
+            "topic": "vaixell pirata"
+        }, 
+        {
+            "id": 49, 
+            "topic": "planetari"
+        }, 
+        {
+            "id": 50, 
+            "topic": "parc infantil"
+        }, 
+        {
+            "id": 51, 
+            "topic": "presó"
+        }, 
+        {
+            "id": 52, 
+            "topic": "piscina pública"
+        }, 
+        {
+            "id": 53, 
+            "topic": "jungla"
+        }, 
+        {
+            "id": 54, 
+            "topic": "jardí"
+        }, 
+        {
+            "id": 55, 
+            "topic": "buffet d\u2019amanides"
+        }, 
+        {
+            "id": 56, 
+            "topic": "vaixell enfonsat"
+        }, 
+        {
+            "id": 57, 
+            "topic": "centre comercial"
+        }, 
+        {
+            "id": 58, 
+            "topic": "telecadira"
+        }, 
+        {
+            "id": 59, 
+            "topic": "gratacel"
+        }, 
+        {
+            "id": 60, 
+            "topic": "escació espacial"
+        }, 
+        {
+            "id": 61, 
+            "topic": "pavelló esportiu"
+        }, 
+        {
+            "id": 62, 
+            "topic": "estació de metro"
+        }, 
+        {
+            "id": 63, 
+            "topic": "foodtruck"
+        }, 
+        {
+            "id": 64, 
+            "topic": "taxi"
+        }, 
+        {
+            "id": 65, 
+            "topic": "parc d\u2019atraccions"
+        }, 
+        {
+            "id": 66, 
+            "topic": "gasolinera"
+        }, 
+        {
+            "id": 67, 
+            "topic": "discoteca"
+        }, 
+        {
+            "id": 68, 
+            "topic": "sala d\u2019espera"
+        }, 
+        {
+            "id": 69, 
+            "topic": "parc aquàtic"
+        }, 
+        {
+            "id": 70, 
+            "topic": "cascada"
+        }, 
+        {
+            "id": 71, 
+            "topic": "museu de cera"
+        }, 
+        {
+            "id": 72, 
+            "topic": "zoo"
+        }
+    ]
+}
