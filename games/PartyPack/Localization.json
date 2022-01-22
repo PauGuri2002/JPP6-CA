@@ -1,0 +1,75 @@
+{
+    "table":{
+    "en": {
+        "LANGUAGE_NAME": "English",
+        "LANGUAGE": "Language",
+        "INTERNET_CONNECTED": "Acabem de trobar Internet.",
+        "INTERNET_DISCONNECTED": "Sembla que no ens podem connectar als servidors de Jackbox Games.<br />Comprova que la teva connexió a Internet funcioni correctament.",
+        "ROOM_DESTROYED": "S'ha produït un error i la sala s'ha destruït.<br />Comprova que la teva connexió a Internet funcioni correctament.",
+        "SOCKET_DISCONNECTED": "Hem perdut la connexió als servidors de Jackbox Games.",
+        "TIMEOUT": "Sembla que no ens podem connectar als servidors de Jackbox Games.<br />Comprova que la teva connexió a Internet funcioni correctament.",
+        "USER_DISCONNECT": "Ho sentim, el servidor t'ha desconnectat. Torna-ho a intentar, si us plau.",
+        "LOST_LICENSE": "No hem trobat la llicència d'aquest contingut.",
+        "STEAM_ERROR": "No hem pogut validar la teva llicència de Steam.",
+        "TWITCH_PRIME_ERROR": "No hem pogut validar la teva llicència de Twitch Prime.",
+        "LOST_DLC": "No hem trobat la llicència del teu DLC. Tornant al menú...",
+        "CLOSE": "Tancar",
+        "QUIT": "Sortir",
+        "BACK": "Torna",
+        "MENU_GAME_NAME_1": "TRIVIA MURDER PARTY 2",
+        "MENU_GAME_NAME_2": "ROLE MODELS",
+        "MENU_GAME_NAME_3": "JOKE BOAT [CAT]",
+        "MENU_GAME_NAME_4": "DICTIONARIUM",
+        "MENU_GAME_NAME_5": "PUSH THE BUTTON",
+        "MENU_GAME_NAME_DISABLED": "??????????",
+        "MENU_DLC": "DLC",
+        "MENU_SETTINGS": "OPCIONS",
+        "MENU_HOW_TO": "COM JUGAR",
+        "BADGE_TITLE_PLAYERS": "JUGADORS",
+        "BADGE_TITLE_FAMILY_MODE": "FAMILY-FRIENDLY",
+        "BADGE_TITLE_NOT_FAMILY_MODE": "NO FAMILY-FRIENDLY",
+        "BADGE_TITLE_AUDIENCE": "AUDIÈNCIA",
+        "BADGE_SUB_PLAYERS": "ÚS DE DISPOSITIUS",
+        "BADGE_SUB_FAMILY_MODE": "OPCIONAL",
+        "BADGE_SUB_NOT_FAMILY_MODE": "EN SERIO!",
+        "BADGE_SUB_AUDIENCE": "MÉS PODEN PARTICIPAR",
+        "INFO_DESCRIPTION_GAME_1": "Un asesino serial está armando un juego absurdo de trivia desde su Hotel Asesino de la familia con la que vivía. ¿Podrás sobrevivir?",
+        "INFO_DESCRIPTION_GAME_2": "Todos somos alguien, asi que, ¿quién eres? ¿El planificador? ¿El especial? ¿El picante? Entra al laboratorio y descúbrelo.",
+        "INFO_DESCRIPTION_GAME_3": "Ahoy! Ets un còmic amateur en un creuer mediocre. Tens el que cal per triomfar en el seu show de comèdia?",
+        "INFO_DESCRIPTION_GAME_4": "El ser humano ha estado inventando palabras y frases por siglos. Ahora es tu turno para contribuir una entrada en las páginas del Diccionarium.",
+        "INFO_DESCRIPTION_GAME_5": "¡Peligro! Alienígenas cambia-forma se han infiltrado en tu nave. ¿Pueden tú y tu tripulación encontrarlos antes que se acabe el tiempo?",
+        "INFO_DESCRIPTION_GAME_DISABLED": "??? ??????? ???? ? ????????? ????? ??????? ??????-???? ????.",
+        "SETTINGS_TITLE": "OPCIONS",
+        "SETTINGS_FULL_SCREEN": "Pantalla completa",
+        "SETTINGS_VOLUME": "Volum",
+        "SETTINGS_FULL_SCREEN_DESCRIPTION": "SÍ farà que els jocs es vegin en pantalla completa.",
+        "SETTINGS_VOLUME_DESCRIPTION": "Fes el joc CRIDANER o SILENCIÓS.",
+        "SETTINGS_TOGGLE_ON": "SÍ",
+        "SETTINGS_TOGGLE_OFF": "NO",
+        "HELP_TITLE": "INSTRUCCIONS",
+        "HELP_LINE_1": "Tria un joc.",
+        "HELP_LINE_2": "Quan creis la sala, agafa el teu mòbil, tauleta o portàtil.",
+        "HELP_LINE_3": "Ves a jackbox.cat al teu dispositiu.",
+        "HELP_LINE_4": "Escriu el codi de 4 lletres que veuràs en pantalla i el teu nom de jugador.",
+        "HELP_LINE_5": "El primer jugador en entrar (el VIP) pot començar la partida des del seu dispositiu quan tothom estigui llest.",
+        "HELP_LINE_6": "Recorda passar una bona estona i riure tot el que puguis!",
+        "HELP_URL": "help.jackboxgames.com"
+    },
+    "fr": {
+        "LANGUAGE_NAME": "Français",
+        "LANGUAGE": "Langue"
+    },
+    "it": {
+        "LANGUAGE_NAME": "Italiano",
+        "LANGUAGE": "Lingua"
+    },
+    "de": {
+        "LANGUAGE_NAME": "Deutsche",
+        "LANGUAGE": "Sprache"
+    },
+    "es": {
+        "LANGUAGE_NAME": "Español",
+        "LANGUAGE": "idioma"
+    }
+}
+}
